@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="AddTaskModelTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2017-12-15T17:21:56" hostname="kali" time="0.115">
+  <properties/>
+  <testcase name="checkIfTaskExistsInTheDatabaseShouldYieldTrueTest1" classname="AddTaskModelTest" time="0.072"/>
+  <testcase name="checkIfTaskExistsInTheDatabaseShouldYieldTrueTest2" classname="AddTaskModelTest" time="0.025"/>
+  <testcase name="checkIfTaskExistsInTheDatabaseShouldYieldTrueTest3" classname="AddTaskModelTest" time="0.013"/>
+  <system-out><![CDATA[null
+null
+null
+null
+null
+null
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
