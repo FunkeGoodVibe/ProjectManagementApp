@@ -1,10 +1,5 @@
 # Meerkat_Team
 
-Meerkat Team
-ANYAKWO AMAKA
-BABENSKAS JULIUS
-ENACHE ALEXANDRU
-ESMAEEL REWAZ
-SOWOLE FUNKE
+Kanban Board - Developed in Java - Project Management App - Team: Alex, Rewaz, Julius, Florence, Funke
 
 No API used
