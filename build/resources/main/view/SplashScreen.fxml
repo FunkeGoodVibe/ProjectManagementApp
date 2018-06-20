@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.StackPane?>
+
+<StackPane fx:id="rootPane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="470.0" prefWidth="660.0" xmlns="http://javafx.com/javafx/9" xmlns:fx="http://javafx.com/fxml/1" fx:controller="main.java.controller.SplashScreenController">
+   <children>
+      <ImageView fitHeight="470" fitWidth="660" >
+         <image>
+            <Image url="@../splashScreen.gif" />
+         </image>
+      </ImageView>
+   </children>
+</StackPane>

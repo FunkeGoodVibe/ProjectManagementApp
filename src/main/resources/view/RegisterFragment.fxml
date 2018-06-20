@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.PasswordField?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane fx:id="register" prefHeight="295.0" prefWidth="275.0" xmlns="http://javafx.com/javafx/9" xmlns:fx="http://javafx.com/fxml/1" fx:controller="main.java.controller.LoginController">
+   <children>
+<Button fx:id="btnRegister" layoutX="101.0" layoutY="246.0" mnemonicParsing="false" onAction="#register" text="Register" AnchorPane.bottomAnchor="15.0" AnchorPane.leftAnchor="100.0" AnchorPane.rightAnchor="100.0" AnchorPane.topAnchor="250.0" />
+      <TextField fx:id="txtSignUpUsername" layoutX="17.0" layoutY="79.0" promptText="Username" AnchorPane.bottomAnchor="175.0" AnchorPane.leftAnchor="17.0" AnchorPane.rightAnchor="17.0" AnchorPane.topAnchor="80.0">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </TextField>
+      <PasswordField fx:id="txtSignUpPassword" layoutX="17.0" layoutY="127.0" promptText="Password" AnchorPane.bottomAnchor="125.0" AnchorPane.leftAnchor="17.0" AnchorPane.rightAnchor="17.0" AnchorPane.topAnchor="130.0">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </PasswordField>
+      
+	 <PasswordField fx:id="txtReEnterPassword" layoutX="17.0" layoutY="177.0" promptText="Re-Enter Password" AnchorPane.bottomAnchor="75.0" AnchorPane.leftAnchor="17.0" AnchorPane.rightAnchor="17.0" AnchorPane.topAnchor="180.0">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </PasswordField>
+
+      <Label fx:id="errorMessage" layoutX="21.0" layoutY="223.0" prefHeight="16.0" prefWidth="232.0" AnchorPane.bottomAnchor="50.0" AnchorPane.leftAnchor="17.0" AnchorPane.rightAnchor="17.0" AnchorPane.topAnchor="225.0" />
+      <Label alignment="CENTER" layoutX="16.0" layoutY="14.0" text="NEW? PLEASE SIGN UP!" AnchorPane.bottomAnchor="230.0" AnchorPane.leftAnchor="17.0" AnchorPane.rightAnchor="17.0" AnchorPane.topAnchor="16.0">
+         <font>
+            <Font name="System Bold" size="18.0" />
+         </font>
+      </Label>
+     
+   </children>
+</AnchorPane>

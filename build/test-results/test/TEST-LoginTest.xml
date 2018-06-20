@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LoginTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2017-12-15T17:21:57" hostname="kali" time="0.077">
+  <properties/>
+  <testcase name="loginUserToApplicationWithNoUsernameAndNoPassword" classname="LoginTest" time="0.01"/>
+  <testcase name="checkIfUserDoesntExsistInTheDatabase" classname="LoginTest" time="0.001"/>
+  <testcase name="loginUserToApplicationWithCorrectUsernameAndFalsePassword" classname="LoginTest" time="0.002"/>
+  <testcase name="loginUserToApplicationWithIncorrectUsernameAndPassword" classname="LoginTest" time="0.008"/>
+  <testcase name="checkIfUserHasBeenAddedToTheDatabase" classname="LoginTest" time="0.001"/>
+  <testcase name="loginUserToApplicationWithCorrectUsernameAndPassword" classname="LoginTest" time="0.001"/>
+  <testcase name="loginUserToApplicationWithIncorrectUsernameAndCorrectPassword" classname="LoginTest" time="0.005"/>
+  <system-out><![CDATA[null
+null
+null
+null
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

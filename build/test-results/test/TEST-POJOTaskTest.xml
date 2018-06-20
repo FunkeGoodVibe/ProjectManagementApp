@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="POJOTaskTest" tests="17" skipped="0" failures="0" errors="0" timestamp="2017-12-15T17:21:57" hostname="kali" time="0.094">
+  <properties/>
+  <testcase name="getEffortEstimateShouldReturnTrue" classname="POJOTaskTest" time="0.014"/>
+  <testcase name="getStartingDateShouldReturnTrue" classname="POJOTaskTest" time="0.001"/>
+  <testcase name="getEndingDateShouldReturnTrue" classname="POJOTaskTest" time="0.001"/>
+  <testcase name="getNameOfEmployeesShouldReturnFalse" classname="POJOTaskTest" time="0.0"/>
+  <testcase name="getTaskNameShouldReturnTrue" classname="POJOTaskTest" time="0.0"/>
+  <testcase name="getStageShouldReturnFalseUsingSetters" classname="POJOTaskTest" time="0.0"/>
+  <testcase name="getTaskPriorityShouldReturnTrue" classname="POJOTaskTest" time="0.0"/>
+  <testcase name="getTaskNameShouldReturnFalse" classname="POJOTaskTest" time="0.0"/>
+  <testcase name="getStartingDateShouldReturnFalse" classname="POJOTaskTest" time="0.001"/>
+  <testcase name="getEffortEstimateShouldReturnFalse" classname="POJOTaskTest" time="0.004"/>
+  <testcase name="getStageShouldReturnFalse" classname="POJOTaskTest" time="0.0"/>
+  <testcase name="getStageShouldReturnTrue" classname="POJOTaskTest" time="0.001"/>
+  <testcase name="getTaskPriorityShouldReturnFalse" classname="POJOTaskTest" time="0.0"/>
+  <testcase name="getNameOfEmployeesShouldReturnTrue" classname="POJOTaskTest" time="0.001"/>
+  <testcase name="deleteTask" classname="POJOTaskTest" time="0.006"/>
+  <testcase name="getEndingDateShouldReturnFalse" classname="POJOTaskTest" time="0.004"/>
+  <testcase name="getStageShouldReturnTrueUsingSetters" classname="POJOTaskTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

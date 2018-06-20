@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="EditTaskModelTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2017-12-15T17:21:56" hostname="kali" time="0.462">
+  <properties/>
+  <testcase name="checkIfTaskExistsInTheDatabaseShouldReturnTrueTest1" classname="EditTaskModelTest" time="0.105"/>
+  <testcase name="checkIfTaskExistsInTheDatabaseShouldReturnTrueTest2" classname="EditTaskModelTest" time="0.117"/>
+  <testcase name="checkIfTaskExistsInTheDatabaseShouldReturnTrueTest3" classname="EditTaskModelTest" time="0.104"/>
+  <testcase name="deleteTaskFromDatabaseAndCheckIfItsInTheDatabaseYieldsFalseTest2" classname="EditTaskModelTest" time="0.076"/>
+  <testcase name="deleteTaskFromDatabaseAndCheckIfItsInTheDatabaseYieldsFalse" classname="EditTaskModelTest" time="0.052"/>
+  <system-out><![CDATA[null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

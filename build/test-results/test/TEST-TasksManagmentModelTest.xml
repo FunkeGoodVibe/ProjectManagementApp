@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TasksManagmentModelTest" tests="16" skipped="0" failures="0" errors="0" timestamp="2017-12-15T17:21:56" hostname="kali" time="0.265">
+  <properties/>
+  <testcase name="getEffortEstimateShouldNotReturnTrue" classname="TasksManagmentModelTest" time="0.032"/>
+  <testcase name="getStartingDateShouldReturnTrue" classname="TasksManagmentModelTest" time="0.006"/>
+  <testcase name="getEndingDateShouldReturnTrue" classname="TasksManagmentModelTest" time="0.004"/>
+  <testcase name="getNameOfEmployeesShouldReturnFalse" classname="TasksManagmentModelTest" time="0.009"/>
+  <testcase name="getTaskNameShouldReturnTrue" classname="TasksManagmentModelTest" time="0.014"/>
+  <testcase name="getTaskPriorityShouldReturnTrue" classname="TasksManagmentModelTest" time="0.006"/>
+  <testcase name="getTaskNameShouldReturnFalse" classname="TasksManagmentModelTest" time="0.007"/>
+  <testcase name="getStartingDateShouldReturnFalse" classname="TasksManagmentModelTest" time="0.004"/>
+  <testcase name="addTaskToTheDatabase" classname="TasksManagmentModelTest" time="0.025"/>
+  <testcase name="getEffortEstimateShouldReturnFalse" classname="TasksManagmentModelTest" time="0.0"/>
+  <testcase name="getStageShouldReturnFalse" classname="TasksManagmentModelTest" time="0.0"/>
+  <testcase name="getStageShouldReturnTrue" classname="TasksManagmentModelTest" time="0.001"/>
+  <testcase name="getTaskPriorityShouldReturnFalse" classname="TasksManagmentModelTest" time="0.0"/>
+  <testcase name="getNameOfEmployeesShouldReturnTrue" classname="TasksManagmentModelTest" time="0.001"/>
+  <testcase name="getPopulateListViewShouldNotReturnTrue" classname="TasksManagmentModelTest" time="0.098"/>
+  <testcase name="getEndingDateShouldReturnFalse" classname="TasksManagmentModelTest" time="0.001"/>
+  <system-out><![CDATA[null
+null
+null
+null
+null
+null
+null
+null
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
