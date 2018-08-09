@@ -1,5 +1,7 @@
 # Meerkat_Team
 
-Kanban Board - Developed in Java - Project Management App - Team: Alex, Rewaz, Julius, Florence, Funke
+Replica Kanban Board developed using JavaFX.
 
-No API used
+Problem: Create an application which would allow clients to manage their work load, setting priorities to each task through the app. This app would help the clients in their Project Management tasks.
+
+Team: Alex, Rewaz, Julius, Florence, Funke
